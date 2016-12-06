@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "mongodb": "registry:dt/mongodb#2.1.0+20161110150902",
+    "node": "registry:dt/node#6.0.0+20161110151007",
+    "socket.io": "registry:dt/socket.io#1.4.4+20160909205835"
+  }
+}

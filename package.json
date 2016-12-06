@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat App Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "./startScript.sh"
+  },
+  "author": "Bradley and Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fcm-push": "^1.1.2",
+    "github-webhook-handler": "^0.6.0",
+    "mongodb": "^2.2.11",
+    "nodemailer": "^2.6.4",
+    "password-hash-and-salt": "^0.1.4",
+    "socket.io": "^1.6.0"
+  }
+}
